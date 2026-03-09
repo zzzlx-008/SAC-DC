@@ -34,7 +34,7 @@ This codebase is currently in the **initial development phase** and is subject t
 ### Basic Usage
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone https://github.com/zzzlx-008/SAC-DC.git
 cd SAC-DC
 
 # Install dependencies
